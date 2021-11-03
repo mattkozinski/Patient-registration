@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Patient information" max_length="40" name="x_412824_patient_r_patient_information" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="last_name" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Postal code" max_length="40" name="postal_code" type="string"/>
+    </element>
+</database>

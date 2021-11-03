@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city" label="City" language="en" table="x_412824_patient_r_patient_information">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <help/>
+            <hint/>
+            <label>City</label>
+            <language>en</language>
+            <name>x_412824_patient_r_patient_information</name>
+            <plural>Cities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-03 11:22:09</sys_created_on>
+            <sys_id>705a6a162f2330107b18e36ef699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>City</sys_name>
+            <sys_package display_value="Patient registration" source="x_412824_patient_r">c149ae522f2330107b18e36ef699b6d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Patient registration">c149ae522f2330107b18e36ef699b6d9</sys_scope>
+            <sys_update_name>sys_documentation_x_412824_patient_r_patient_information_city_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-03 11:22:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
